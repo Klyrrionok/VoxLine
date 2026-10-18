@@ -9,4 +9,5 @@ VoxLine озвучивает только самые актуальные ком
 
 Это удобный инструмент для стримеров, ведущих и авторов, которые хотят сделать эфир живее, быстрее отвечать зрителям и не пропускать важные сообщения.
 
-VoxLine — когда каждый комментарий может прозвучать.<img width="300" height="126" alt="installer-banner" src="https://github.com/user-attachments/assets/59251e92-dfa8-4115-98bc-ce22121cf5c8" />
+VoxLine — когда каждый комментарий может прозвучать.
+<img width="300" height="126" alt="installer-banner" src="https://github.com/user-attachments/assets/59251e92-dfa8-4115-98bc-ce22121cf5c8" />
